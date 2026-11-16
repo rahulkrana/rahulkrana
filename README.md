@@ -82,7 +82,7 @@ A backend-focused application designed to help users prepare for technical inter
 A full-stack application designed to help users to view different art gallery and can contact to the owner.
 
 **Tech:** Java • Spring Boot • REST API • MySQL • ReactJS
-**site:- https://arte-gallery-omega.vercel.app/
+*site:- https://arte-gallery-omega.vercel.app/
 
 ---
 
